@@ -2,6 +2,7 @@
 This document describes how to allocate a fixed IP to `Raspberry pi`.
 
 Used Model : Raspberry Pi 3 Model B+
+<img src="/img/rpi.jpg" width="50%" height="50%"/>
 
 ## 1. Check the ip address
 ```bash
