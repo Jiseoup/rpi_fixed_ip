@@ -1,4 +1,4 @@
-# Raspberry Pi Fixed IP Allocation
+# Raspberry Pi Fixed IP Allocation <a href="https://emoji.gg/emoji/1348_raspberrypi"><img src="https://cdn3.emoji.gg/emojis/1348_raspberrypi.png" width="40px" height="40px" alt="raspberrypi"></a>
 This document describes how to allocate a fixed IP to `Raspberry pi`.
 
 Used Model : Raspberry Pi 3 Model B+  
